@@ -1,0 +1,61 @@
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\ASP BIG WORK.dll.config
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\ASP BIG WORK.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\ASP BIG WORK.pdb
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\csc.exe
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\csc.exe.config
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\csc.rsp
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\csi.exe
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\csi.exe.config
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\csi.rsp
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\Microsoft.Managed.Core.targets
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.AppContext.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.Collections.Immutable.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.Console.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.IO.Compression.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.IO.FileSystem.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.IO.Pipes.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.Reflection.Metadata.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.Security.AccessControl.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.Security.Claims.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.Security.Principal.Windows.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.ValueTuple.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.Xml.XmlDocument.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.Xml.XPath.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\vbc.exe
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\vbc.exe.config
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\vbc.rsp
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\VBCSCompiler.exe
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\roslyn\VBCSCompiler.exe.config
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\obj\Debug\ASP BIG WORK.csprojAssemblyReference.cache
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\obj\Debug\ASP BIG WORK.csproj.CoreCompileInputs.cache
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\obj\Debug\ASP BIG WORK.csproj.CopyComplete
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\obj\Debug\ASP BIG WORK.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\obj\Debug\ASP BIG WORK.pdb
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\EntityFramework.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\EntityFramework.SqlServer.dll
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\EntityFramework.xml
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\EntityFramework.SqlServer.xml
+H:\VS_projects\ASP BIG WORK\ASP BIG WORK\bin\zh-Hans\EntityFramework.resources.dll
